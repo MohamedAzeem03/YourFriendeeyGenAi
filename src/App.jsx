@@ -99,7 +99,3 @@ function App() {
 }
 
 export default App;
-
-// hygtygyg
-// hbhubh
-// hbhbh
